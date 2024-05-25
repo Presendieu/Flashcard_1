@@ -7,7 +7,7 @@ This flashcard application allows the user to ask new questions and answer
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Presendieu/Flashcard_1/blob/main/GIF-2024-05-25-10-12-57.gif" width=200><br>
 
 
 ## Required
